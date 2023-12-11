@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vascosilva/Documents/2ºSemestre/IAED/Projeto2final/Header_file.h
+
+/Users/vascosilva/Documents/2ºSemestre/IAED/Projeto2final/Projeto2_main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Header_file.h
+/Users/vascosilva/Documents/2ºSemestre/IAED/Projeto2final/Header_file.h
+
